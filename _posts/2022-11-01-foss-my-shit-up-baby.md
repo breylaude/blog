@@ -2,13 +2,16 @@
 layout: post
 title: foss my shit up baby
 subtitle: 
+gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: []
 comments: true
 ---
 
-> `DISCLAIMER` this is gonna be a pretty tech focused post, sorry girl (you know who you are) that aren’t about that life, i’ll get back to the regular grilled cheese edge posts later today <3
->
+{: .box-warning}
+`DISCLAIMER` this is gonna be a pretty tech focused post, sorry girl (you know who you are) that aren’t about that life, i’ll get back to the regular grilled cheese edge posts later today <3
+
+
 > i was inspired by [Carl Chenet’s Post](https://carlchenet.com/foss-passive-consumerism-kills-our-community/) to do something so i’m gonna do the easiest thing and write a `mof gorram blog post(tm)` highlighting some of the neato software i use daily and/or like.
 
 ### os
@@ -173,6 +176,7 @@ a quick list:
 - [ZNC](https://wiki.znc.in/ZNC)
 - [CertBot](https://certbot.eff.org/)
 - [Yesod](https://www.yesodweb.com/)
+
 thank you all.
 
 if i’ve forgotten or not mentioned anything (and theres probably a lot more) i may get around to doing a second write up at some point. but thank you each and every person who has helped me make my laptop and servers the characters they are today.
