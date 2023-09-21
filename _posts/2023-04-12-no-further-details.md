@@ -8,7 +8,7 @@ tags: [rants]
 comments: true
 ---
 
-i really couldnt come up with a better title than this i just wanted something with the ancronym *“NFD”* because this is in part about normal form designators
+i really couldnt come up with a better title than this i just wanted something with the acronym *“NFD”* because this is in part about normal form designators
 
 so with that out of the way...
 
@@ -16,10 +16,13 @@ so with that out of the way...
 
 ### normal form designators
 
-*Brian Cantwell Smith* is one of the many people who are far smarter than i am. i learnt of them through their MIT thesis Procedural Reflection in Programming Languages which is something else hoooo mama
+*Brian Cantwell Smith* is one of the many people who are far smarter than i am. 
 
-as always, the ideas expressed through this post were taught to me first through the above paper, as such im unsure whether to attribute these ideas to Brian, but will do so as im not sure who to attribute otherwise. knowledge is a shared exercise and i welcome and thank everyone who had a part to play <3
+i learnt of them through their MIT thesis Procedural Reflection in Programming Languages which is something else
 
+as always, the ideas expressed through this post were taught to me first through the above paper, as such im unsure whether to attribute these ideas to Brian, but will do so as im not sure who to attribute otherwise. knowledge is a shared exercise and i welcome and thank everyone who had a part to play
+
+{: .box-error}
 another disclaimer but its highly likely im misusing terminology here, if thats the case please replace all occurences of phrases that appear in brians book with made up words that take up the meaning i have expressed here.
 
 **pripl* is about the development of `LISP-3`, which is a scheme endowed with reflective capabilities. the scope of this is outside of my brain ability this blog post, but im sure i will post about that also. however, one idea that came up a lot was of normal form designators and i thought they were neat.
