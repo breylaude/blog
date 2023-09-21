@@ -7,7 +7,8 @@ tags: [lugubrious, despondent]
 comments: true
 ---
 
-> Disclaimer: this is gonna be filled with armchair grilled cheese article and im also not sure what im trying to say. i also am probably guilty of most of this myself but whatever.
+{: .box-warning}
+Disclaimer: this is gonna be filled with armchair grilled cheese article and im also not sure what im trying to say. i also am probably guilty of most of this myself but whatever.
 
 what motivates people to act the way they do. in heavily cynical mindsets it seems like there are a few key motivators that present themselves almost anywhere you go.
 
