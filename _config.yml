@@ -22,9 +22,9 @@ author: a home for poorly researched ideas that I find myself repeating a lot an
 navbar-links:
 # About Me: "aboutme"
 # Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
- author's home: "laude.cloud"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+# author's home: "laude.cloud"
 
 ################
 # --- Logo --- #
