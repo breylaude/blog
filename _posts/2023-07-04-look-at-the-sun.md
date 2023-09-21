@@ -4,12 +4,14 @@ title: look at the sun
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
-tags: []
+tags: [rant]
 comments: true
 ---
 
-> disclaimer: this applies to non-women also but they’re not the focus of this rant
-> blinding so you look away
+{: .box-note}
+disclaimer: this applies to non-women also but they’re not the focus of this rant
+
+> bullshit so you look away
 
 there are a lot of conventionally attractive women in my city, and the majority of them do nothing for me.
 
