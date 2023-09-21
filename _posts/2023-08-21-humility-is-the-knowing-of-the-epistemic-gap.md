@@ -12,4 +12,4 @@ humility is the knowing that you don’t know a lot of things not a false preten
 
 the contemporary view of humility seems to be to pretend as if one knew little instead of realizing it. here fake it till you make it doesn’t seem to work as, the more you pretend to be humble without realizing how little you know—not relatively, but absolutely—-the ego grows by holding onto the relative superiority.
 
-most of the issue of not understanding the fragility of one’s epistemic confidence arises due to comparision, but more often than not Comparison based on accomplishment does not have a baseline.
+most of the issue of not understanding the fragility of one’s epistemic confidence arises due to comparision, but more often than not [comparison based on accomplishment does not have a baseline](https://breylaude.github.io/blog/2023-08-21-comparison-based-on-comparison-doesnt-have-a-baseline/)
