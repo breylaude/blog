@@ -7,13 +7,12 @@ gh-badge: [star, fork, follow]
 tags: []
 comments: true
 ---
-{: .box-warning}
-disclaimer!!!
 
-`ilovela.in` is no longer running, and we have moved to `welovela.in` instead, <span style="color:purple">running on different software</span>, but with all the same cool people. The article here has been left unmodified apart from this disclaimer.
+{: .box-warning}
+DISCLAIMER `ilovela.in` is no longer running, and we have moved to `welovela.in` instead, <span style="color:purple">running on different software</span>, but with all the same cool people. The article here has been left unmodified apart from this disclaimer.
 
 {: .box-warning} 
-disclaimer 2 !!!! welovela.in is no longer running, most of the community have moved on to various other instances, the article as been left unmodified apart from this disclaimer
+DISCLAIMER 2  welovela.in is no longer running, most of the community have moved on to various other instances, the article as been left unmodified apart from this disclaimer
 
 Ego is up and running!
 
