@@ -1,6 +1,6 @@
 ---
 layout: post
-title: social deprivaion bubble
+title: social deprivation bubble
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
