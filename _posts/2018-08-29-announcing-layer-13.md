@@ -21,17 +21,17 @@ Ego is up and running!
 
 Mastodon is a twitter-like social network, and it has a couple of neat points to it:
 
-`open source`
+### open source
 
 what more could you ask for? free as in freedom and free as in beer, and piece of mind if you’re tinfoil hat enough to be able to read through all the code and make sure no-ones spying on you.
 
-`decentrilised`
+### decentrilised
 
 anyone can run their own instance of Mastodon, and all instances can communicate with each other as if it were one large social network.
 
 there aren’t too many people on my instance currently, so feel free to join and chat. once we start following people in other instances (or if anyone is running a larger instance and is fine with relaying for me) we’ll start to see more and more of the wider network.
 
-`pretentiously`
+### pretentiously
 
 Layer 13 - Ego
 
