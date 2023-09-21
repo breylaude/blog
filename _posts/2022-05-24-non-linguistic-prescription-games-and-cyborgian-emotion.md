@@ -1,14 +1,12 @@
 ---
 layout: post
-title: non-linguistic presciptionn, games and cyborgian emotion
+title: non-linguistic presciption, games and cyborgian emotion
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: []
 comments: true
 ---
-
-> murder of the universe
 
 as someone with great difficulty properly processing emotion, and an amazing partner with low levels of emotional intelligence, it brings me hedonistic pleasure to realise that a seedling of a flowery feeling had managed to bud in the alien hellscape that is the folds of my brain, and that species was alien also to her.
 
@@ -60,4 +58,4 @@ something we view as a method of temporarily restricting our courses of action s
 
 ultimately its the wish that i understood my defective brain enough to be able to share with my partner an means of feeling that has helped me through many hard times, and my wish to continue feeling that well into the future, should any hard times come upon me again.
 
-:wq
+`:wq`
