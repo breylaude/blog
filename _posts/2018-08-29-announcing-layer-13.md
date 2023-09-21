@@ -1,6 +1,6 @@
 ---
 layout: post
-title: announcing: layer 13 - ego
+title: announcing layer 13 - ego
 subtitle: 
 gh-badge: [star, fork, follow]
 tags: []
