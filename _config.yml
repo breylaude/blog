@@ -10,21 +10,21 @@
 ############################
 
 # Name of website
-title: less is more
+title: 1 flop at a time
 
 # Your name to show in the footer
-author: brey laude
+author: blaude
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+# About Me: "aboutme"
+# Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: ""
+# Author's home: ""
 
 ################
 # --- Logo --- #
