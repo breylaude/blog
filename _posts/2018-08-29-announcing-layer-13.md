@@ -2,6 +2,7 @@
 layout: post
 title: announcing layer 13 - ego
 subtitle: 
+gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: []
 comments: true
