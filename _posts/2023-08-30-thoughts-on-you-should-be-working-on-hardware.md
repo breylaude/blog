@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Thoughts on "You shoud be working on hardware" by Casey Handmer
+title: thoughts on "you shoud be working on hardware" by casey handmer
 subtitle: 
-gh-repo: breylaude/webspace
+gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [thoughts]
 comments: true
