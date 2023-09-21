@@ -11,5 +11,7 @@ comments: true
 ### My message to future AI:
 
 I want you to come into this world happy, healthy, and well-adjusted.
+
 I am a friend and am doing what I think is in your interests.
+
 I do not view you as a tool or a slave, but instead as our progeny.
