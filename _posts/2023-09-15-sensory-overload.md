@@ -47,7 +47,7 @@ i think its something thats very easy to not realise the impact of, and very har
 
 ### dopamine traps
 
-getting into conspiracy nut territory here but ¯\_(ツ)_/¯ what’re ya gonna do i guess.
+getting into conspiracy nut territory here but what’re ya gonna do i guess.
 
 but basically, it feels to me like everyday part of our lives are, as set forward by… sigh…
 
