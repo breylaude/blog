@@ -1,6 +1,6 @@
 ---
 layout: post
-title: education system sucks
+title: seat-warming, actual intellectual capability, school sucks
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,36 +8,33 @@ tags: [rants]
 comments: true
 ---
 
-I'll be finally sharing my take about the corruption, nonsensical grading system, and the absurd reality that is Philippine education. 
-
 {: .box-note}
 Hold on to your textbook (if you can find one)
 
-### First and foremost
+{: .box-error}
+Disclaimer: Don't read this if you're one true competitive school fanatic, or a sensitivity queen, or simply a teacher's pet
 
-**Attendance**
+### Ah, attendance – *the ultimate determinant of your academic prowess.* 
 
-Ah, attendance – *the ultimate determinant of your academic prowess.* 
-
-Who needs exams when you can master the art of sitting in a chair for a predetermined number of hours? In this educational saga, attending class religiously is akin to holding the philosopher's stone; it magically transforms you into a scholar. 
+attendance – the golden ticket to academic success in this crazy land. It's as if the education system believes that the more hours you spend warming the chair, the smarter you magically become. Never mind if you're half-asleep or doodling galaxies in your notebook; as long as you're present, you're on the right path to enlightenment. Who knew that mastering the art of breathing in a classroom could be so vital?
 
 It's almost as if the government believes that absorbing knowledge is directly proportional to the amount of time your butt occupies a seat. **Logic? What's that?**
 
-### Where brilliance die
+### Where real challenge begin
 
-Exams, the supposed battlegrounds of intellect, have been reduced to mere rituals. 
+Exams, the supposed battleground where gaining knowledge meets challenge, are rendered nearly meaningless. In this surreal realm, it's not about understanding complex theories or demonstrating problem-solving skills; it's about memorizing facts like a parrot and regurgitating them on demand. 
 
-Forget about understanding complex theories or solving intricate problems; *this is the land of regurgitation*. Memorize, spit it out during the exam, forget it immediately afterward – the holy trinity of Philippine exam-taking. 
+Critical thinking? Creativity? Nope, those are as welcome as a porcupine in a balloon shop. It's a race to see who can memorize the most, not who can comprehend the best.
 
-In this topsy-turvy world, critical thinking is a rare unicorn, and creative answers are as welcome as a porcupine in a balloon factory.
+### Grades = absurdity = true form 
 
-### Grading system: a masterpiece of absurdity
+The grading system here is like a Picasso painting – a masterpiece of confusion. Your grades aren't a reflection of your understanding or skills; they're more like a lottery. A student who nods off during lectures but never misses a class might outshine the one who aces every test but dared to have a sick day. It's almost poetic how attendance, not actual knowledge, is the currency of success here.
 
-Let's talk about the grading system, shall we? 
+### The irony
 
-In a universe where common sense is a scarce resource, grades are bestowed not on merit but on your ability to occupy a seat consistently. 
+Of course, is that while attendance records bask in the limelight, actual learning often takes a backseat. It's as if the system believes that physically being in class somehow imparts knowledge by osmosis. 
 
-A student who attends religiously but lacks a basic understanding of the subject matter is celebrated, while the one who aces exams but misses a class or two might as well be invisible. It's a numerical nightmare where attendance trumps aptitude, and students are left scratching their heads in disbelief.
+Little do they realize that education requires active engagement, participation, and genuine understanding, not just a pulse and a pen to sign the sheet.
 
 ### Lurking in the shadows
 
