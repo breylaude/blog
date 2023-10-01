@@ -1,7 +1,8 @@
 ---
 layout: post
 title: sensory overload
-subtitle: this aint a dream, its a deity cursed arms race
+subtitle: 
+gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [thoughts]
 comments: true
@@ -9,7 +10,8 @@ comments: true
 
 quite a bit, things get just a little too much, and it seems like theres nothing you can do and it all just weighs in.
 
-i think, personally, this is in part due three things, of which we shall explore make valid and informed points about rant vaguely until i run out of things to say
+{: .box-note}
+i think, personally, this is in part due three things, of which we shall explore make valid and informed points about rant vaguely until i run out of things to say...
 
 ### advertising
 
@@ -17,11 +19,11 @@ this is the big one, and its absolutely everywhere
 
 every store everywhere is basically the equivilent of the old eb games joke about needing a machete to get through the banners advertising sales.
 
-to be completely frank, its strikes me as incredibly excessively self-absorbed, if someone is already currently in your shop, what point is there to bombarding them with images specifically designed to prey upon their judgement
+to be completely frank, it strikes me as incredibly excessively self-absorbed, if someone is already currently in your shop, what point is there to bombarding them with images specifically designed to prey upon their judgement?
 
-i repeat, when they’ve already decided to support your business
+i repeat, when they’ve already decided to support your business?
 
-its disgusting, its the equivilent of kicking a child when they’re down, but instead of kicking them you actually just put them in a room with flashing neon lights and yell at them until they give you a dollar in return for a cocaine habit.
+its disgusting, its the equivilent of kicking a child when they’re down, but instead of kicking them you actually just put them in a room with flashing neon lights and yell at them until they give you a penny in return for a weed habit.
 
 and its not just stores, the average web page is more advertising than actual content, and that isnt me being overly poetic, the amount of data you need to download to view a webpage is majority focussed to ads, code that tracks you, and code that tracks the things you use to have it not track you
 
@@ -49,11 +51,11 @@ getting into conspiracy nut territory here but ¯\_(ツ)_/¯ what’re ya gonna 
 
 but basically, it feels to me like everyday part of our lives are, as set forward by… sigh…
 
-> the society that we live in *evil gamer noises*
+> the society that we live in *evil noises*
 
 … explicitly set up to give us these constant upticks in short term validation, over and over again until we’re forced to continue these practices ourselves like some sort of drug fiend looking for their next hit.
 
-games have become nothing more than money hungry scams, soullessly generic clones, and slash or glorified slot machines, just to get people addicted to that feeling of accomplishment.
+games have become nothing more than money hungry scams, soulessly generic clones, and slash or glorified slot machines, just to get people addicted to that feeling of accomplishment.
 
 i used to enjoy playing games quite a bit, in my youth i held many strong opinions on the medium and thankfully there are still some new games i would consider worth playing, but for the most part, its dead to me.
 
@@ -73,7 +75,7 @@ its the software equivilent of the single worst scene in all of end of eva, exce
 
 its artificial hedonism that doesnt even really help the self
 
-and it goes so deep as well, more and more sugar in our foods to get people feeling that rush, get them buying the type of foods The Powers That Be want them to buy.
+and it goes so deep as well, more and more sugar in our foods to get people feeling that rush, get them buying the type of foods *The Powers That Be* want them to buy.
 
 the disgusting amount of celebrity worship that seems commonplace, acting as easy validation in leu of making actual connections with people.
 
@@ -95,10 +97,11 @@ and yes, they can be fun, they can be entertaining, but in the same way someone 
 
 ### fin
 
-i would have mentioned the unhealthy obsession with corporatism we all seem to be stuck in, but i have done that many a time before in much shittier writing than this, so for today we’ll give you all a break from it.
+i would have mentioned the unhealthy obsession with corporatism you all seem to be stuck in, but i have done that many a time before in much shittier writing than this, so for today we’ll give you all a break from it.
 
 the rest though, i think, all add up to, in ways we have difficulty noticing, brainwash ourselves into being more stressed than we need to be, more anxious about things, to feel worse in general, such that we may buy products to trigger that dopamine rush.
 
+{: .box-warning}
 please think about the media you consume, the software you use, the things you own.
 
 whoever runs the world, the 1% of the 1%, the nerds, the tech giants, the elite;
