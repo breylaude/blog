@@ -1,8 +1,8 @@
 ---
 layout: post
 title: styled components is the most foolish thing i've seen in a long time
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+subtitle: 
+gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [rants, programming]
 comments: true
