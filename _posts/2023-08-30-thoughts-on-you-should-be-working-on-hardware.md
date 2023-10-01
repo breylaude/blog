@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thoughts on "you shoud be working on hardware" by casey handmer
+title: thoughts on "you should be working on hardware" by casey handmer
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
