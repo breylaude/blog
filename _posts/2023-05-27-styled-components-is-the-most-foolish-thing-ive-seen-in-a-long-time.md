@@ -43,9 +43,7 @@ Advocates argue that Styled Components make designs more maintainable.
 I beg to differ. 
 
 {: .box-note}
-Picture this: 
-
-you have a massive project with dozens of components, each with its own set of styles. When you want to make a global change, say, modify the color scheme, you find yourself hunting down each styled component like a detective following a trail of breadcrumbs.
+Picture this: you have a massive project with dozens of components, each with its own set of styles. When you want to make a global change, say, modify the color scheme, you find yourself hunting down each styled component like a detective following a trail of breadcrumbs.
 
 Call me old-fashioned comrade, but I miss when CSS allowed for a coherent, unified approach. 
 
