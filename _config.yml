@@ -191,10 +191,10 @@ gtm: "GTM-54S58GPL"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "10053845771356309"
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-commentbox: "5718046299652096-proj" # Project ID, e.g. "5694267682979840-proj"
+#commentbox: "5718046299652096-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
