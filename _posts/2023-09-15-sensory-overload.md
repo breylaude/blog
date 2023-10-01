@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sensory overload
-subtitle: 
+subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [thoughts]
@@ -11,7 +11,7 @@ comments: true
 quite a bit, things get just a little too much, and it seems like theres nothing you can do and it all just weighs in.
 
 {: .box-note}
-i think, personally, this is in part due three things, of which we shall explore make valid and informed points about rant vaguely until i run out of things to say...
+i think, personally, this is in part due three things, of which we shall explore make valid and informed points about rant vaguely until i run out of things to say
 
 ### advertising
 
