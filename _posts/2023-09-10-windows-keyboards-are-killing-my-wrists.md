@@ -14,7 +14,7 @@ Now, don’t get me wrong, I’m all for technological advancements and of moder
 
 ###  I just realized that these Windows Keyboards are killing my wrist
 
-{: box-note}
+{: .box-note}
 So, picture this: you’re typing away, in the zone, and suddenly you need to hit CTRL. 
 
 What do you do? You stretch your pinky finger all the way to the bottom-left corner of your keyboard. It’s like a yoga move, but for your hand. 
