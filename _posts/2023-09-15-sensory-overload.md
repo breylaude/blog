@@ -51,7 +51,7 @@ getting into conspiracy nut territory here but what’re ya gonna do i guess.
 
 but basically, it feels to me like everyday part of our lives are, as set forward by… sigh…
 
-> the society that we live in *evil noises*
+> the society that we live in **evil noises**
 
 … explicitly set up to give us these constant upticks in short term validation, over and over again until we’re forced to continue these practices ourselves like some sort of drug fiend looking for their next hit.
 
