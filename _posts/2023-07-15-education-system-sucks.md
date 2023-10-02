@@ -12,7 +12,7 @@ comments: true
 Hold on to your textbook (if you can find one)
 
 {: .box-error}
-Disclaimer: Don't read this if you're one true competitive school fanatic, or a sensitivity queen, or simply a teacher's pet
+Disclaimer: this is a disclaimer
 
 ### Ah, attendance – *the ultimate determinant of your academic prowess.* 
 
