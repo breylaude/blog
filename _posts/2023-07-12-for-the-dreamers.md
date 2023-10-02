@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chasing degrees in a world of delusion
+title: chasing delusions
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
