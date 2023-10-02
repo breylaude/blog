@@ -8,7 +8,7 @@ tags: [programming]
 comments: true
 ---
 
-A friend of mine and I often talk about software design when we hangout. He is skeptic about Agile Software Design, calling it “software design by trial and error.”
+Jong (a friend of  mine) and I often talk about software design. He is skeptic about Agile Software Design, calling it “software design by trial and error.”
 
 I share his criticism.
 
