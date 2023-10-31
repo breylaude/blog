@@ -21,11 +21,10 @@ author: Brey Laude
 
 navbar-links:
  Author : "aboutme"
- Tags : "tags.html"
  Resources:
     - Alpha Nerd: "https://alpha-nerd.com"
     - Laude Technologies: "https://www.laudetechnologies.com/"
-# author's home: "laude.cloud"
+ author's home: "laude.cloud"
 
 ################
 # --- Logo --- #
@@ -36,11 +35,11 @@ navbar-links:
 # avatar: "/assets/img/avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
- title-img: /assets/img/avatar.jpg
+ title-img: "/assets/img/avatar.jpg"
 
 
 #####################################
