@@ -10,9 +10,7 @@ comments: true
 
 Styled components been bugging me like a persistent mosquito on a summer night.
 
-Alright, let’s talk about this buzzword: 
-
-*Styled Components*
+Alright, *Styled Components*
 
 You’ve probably heard of it - this trend that's been hailed as the savior of styling in the world of web development. 
 
