@@ -1,6 +1,6 @@
 ---
 layout: post
-title: announcing layer 13 - ego
+title: layer 13
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -9,16 +9,14 @@ comments: true
 ---
 
 {: .box-warning}
-DISCLAIMER `ilovela.in` is no longer running, and we have moved to `welovela.in` instead, <span style="color:purple">running on different software</span>, but with all the same cool people. The article here has been left unmodified apart from this disclaimer.
+DISCLAIMER layer 12 is no longer running, and we have moved to `welovela.in` instead, <span style="color:purple">running on different software</span>, but with all the same cool people. The article here has been left unmodified apart from this disclaimer.
 
 {: .box-warning} 
-DISCLAIMER 2  welovela.in is no longer running, most of the community have moved on to various other instances, the article as been left unmodified apart from this disclaimer
-
-Ego is up and running!
+DISCLAIMER 2 layer 12 is no longer running, most of the community have moved on to various other instances, the article as been left unmodified apart from this disclaimer
 
 <span style="color:red">Layer 13 of the Protocol Seven System</span>.
 
-<span style="color:red">Layer 13 - hosted at ilovela.in - is my Mastodon instance.</span>.
+<span style="color:red">Layer 13 - is my Mastodon instance.</span>.
 
 Mastodon is a twitter-like social network, and it has a couple of neat points to it:
 
@@ -36,9 +34,9 @@ there aren’t too many people on my instance currently, so feel free to join an
 
 Layer 13 - Ego
 
-`Battlefield the first for our public image`
+*Battlefield the first for our public image*
 
-`The first and last front`
+*The first and last front*
 
 The unique combination of meatspace and the wired
 
