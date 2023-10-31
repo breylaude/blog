@@ -21,6 +21,7 @@ author: blaude
 
 navbar-links:
  About : "aboutme"
+ Tags : "tags.html"
 # Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
