@@ -13,14 +13,14 @@
 title: a home for poorly researched ideas that I find myself repeating a lot anyway
 
 # Your name to show in the footer
-author: blaude
+author: Brey Laude
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
- About : "aboutme"
+ Author : "aboutme"
  Tags : "tags.html"
 # Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
