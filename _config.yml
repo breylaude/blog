@@ -22,9 +22,9 @@ author: Brey Laude
 navbar-links:
  Author : "aboutme"
  Tags : "tags.html"
-# Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+ Resources:
+    - Alpha Nerd: "https://alpha-nerd.com"
+    - Laude Technologies: "https://www.laudetechnologies.com/"
 # author's home: "laude.cloud"
 
 ################
