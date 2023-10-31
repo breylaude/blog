@@ -4,9 +4,7 @@ title: now
 subtitle: 
 ---
 
-![brey laude](assets/img/avatar.jpg)
-
-Brey LAUDE, founder and lead information security engineer at Alpha Nerd, a filipino organization for cybersecurity research and development. experienced in cybersecurity, site reliability engineering, distributed computing and software engineering.
+![brey laude](assets/img/avatar.jpg) Brey LAUDE, founder and lead information security engineer at Alpha Nerd, a filipino organization for cybersecurity research and development. experienced in cybersecurity, site reliability engineering, distributed computing and software engineering.
 
 ### books read
 cigarettes - george orwell
