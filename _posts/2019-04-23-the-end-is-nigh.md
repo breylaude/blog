@@ -1,15 +1,12 @@
 ---
 layout: post
-title: the end is nigh!
+title: the end is near
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: []
 comments: true
 ---
-
-{: .box-warning}
-the future's uncertain and the end is always near
 
 i have come to inform you of the single greatest threat we have ever had.
 
@@ -30,7 +27,7 @@ part of the movie has the potential to literally change our lives forever, and n
 
 in fact, i believe an artifact from this movie is the great filter
 
-### tf?
+### tf
 
 the great filter is an idea to try and explain the lack of intelligent life in the immediate galaxy. it states that there is some thing that eventually targets all sufficiently intelligent life, and kills it all.
 
