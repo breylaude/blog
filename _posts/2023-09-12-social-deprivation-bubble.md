@@ -8,7 +8,7 @@ tags: []
 comments: true
 ---
 
-if youre a hoopy frood who always knows where their headphones are then in my book youre all set to go out into the big bad world and interact with some strangers “interact” with some strangers!
+if youre a hoopy frood who always knows where their headphones are then in my book you're all set to go out into the big bad world and interact with some strangers **“interact” with some strangers!**
 
 ### noggin' telecommunicators
 
