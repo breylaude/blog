@@ -135,8 +135,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#1A2551"
 hover-col: "#4B3B65"
-footer-col: "#CCCCCC"
-footer-text-col: "#1A1A1F"
+footer-col: "#1A1A1F"
+footer-text-col: "#CCCCCC"
 footer-link-col: "#404040"
 footer-hover-col: "#4B3B65"
 
@@ -144,7 +144,7 @@ footer-hover-col: "#4B3B65"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/bg.jpg"
+#footer-img: "/assets/img/bg.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
