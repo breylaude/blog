@@ -1,8 +1,8 @@
 ---
 layout: post
 title: given the vertex degree, the proof of the existence of the graph
-subtitle: There's lots to learn!
-gh-repo: breylaude/blog
+subtitle: 
+gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: [cp]
 comments: true
