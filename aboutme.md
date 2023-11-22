@@ -4,7 +4,7 @@ title: about
 subtitle: 
 ---
 
-Brey LAUDE, founder and lead information security engineer ![brey laude](assets/img/avatar.jpg) at [Alpha Nerd](https://alpha-nerd.com), a filipino organization for cybersecurity research and development. Active in the 'security sector' for 8 years. Experienced with various aspects of cyber security, such as: penetration testing, malware analyses, vulnerability research, incident handling, binary exploitation, embedding operating systems, ICS/SCADA hacking, ethical hacking, etc.worked as a software developer security researcher/hacker/pentester, software developer, systems developer and security engineer, experienced in cybersecurity, site reliability engineering, distributed computing and software engineering.
+Brey LAUDE, founder and lead information security engineer ![brey laude](assets/img/avatar.jpg) at [Laude Technologies](https://laudetechnologies.com), a filipino information research and development firm. Active in the 'security sector' for 8 years. Experienced with various aspects of cyber security, such as: penetration testing, malware analyses, vulnerability research, incident handling, binary exploitation, embedding operating systems, ICS/SCADA hacking, ethical hacking, etc.worked as a software developer security researcher/hacker/pentester, software developer, systems developer and security engineer, experienced in cybersecurity, site reliability engineering, distributed computing and software engineering.
 
 right below are a few highlights of his contributions. for more details, check his, [linkedin](https://www.linkedin.com/in/blaude/) and [github](https://github.com/breylaude/), The best way to reach brey is via [email](mailto:laude822@gmail.com), not social networks, you can also [call](tel:+639365671353) but brey prefer e-mail for "cold calls."
 
@@ -17,7 +17,7 @@ right below are a few highlights of his contributions. for more details, check h
 - enabled observability by setting up alerting & metrics via Prometheus & Grafana, distributed tracing via OpenCensus & Stackdriver Trace, and error reporting; decreasing mean time to repair by making it easier to diagnose incidents rapidly, and making it easy to optimize hotspots by allowing deep dives into endpoint execution.
 - transitioned container building from Jenkins to cloud build, increasing reliability and parallelism for container builds.
 
-#### cybersecurity - (alpha nerd)
+#### cybersecurity - (Laude Technologies)
 
 - collaborated on international projects with governments and large organizations worldwide.
 - worked on hardening security and evaluating systems, devices, applications and networks.
