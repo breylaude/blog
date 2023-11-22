@@ -10,14 +10,17 @@ comments: true
 
 I managed to add some new modules/ECUs, and get this, my car just went along with it without batting an eye. No security checks, no questions asked. Jazzing my own vehicle with some extra features. Sure, the module I added is from the same maker, but the wild part is, if someone's got the time, they could whip up their own module and sneak it up their ass, I mean car.
 
+### First things first
 I had this idea to amp up my car with a combination of traction and stability control, useful for some specific off-road situations. So, first things first, I set out to get a copy of the workshop manual for the car - which contains detailed wiring diagrams of all components. Reading through the pages, I clocked that the feature I was gunning for was controlled by the **Electronic Brake Control Module (EBCM)**.
 
 I had two options, either and modify the firmware on my unit, or get a different model of **EBCM**. Reverse engineering a firmware from scratch is time-consuming and needs mad skills, so the most reasonable option was to get a different model of **EBCM** that already had the specific feature I needed.
 
 After further review of the workshop manual, I found the wiring diagram, turns out, this fancy new **EBCM** wasn't a solo act – it wanted a few comrades to join the party. A **Steering Angle Sensor (SAS)**, a slick off button for the stability and traction duo, a fresh face on the block named the stop lamp relay, and some changes in the brakes wiring. Mainly to connect the stop lamp relay with a few new wires into the EBCM main harness .
 
+### Verification
 Before purchasing the required components, I needed to make sure if my plan would actually fly. So, I started to review the wires directly from my car, to my surprise, the harness for the **Steering Angle Sensor (SAS)** and the off button were already chillin' in there. It seemed that the required components for the new feature should interact with each other, so there was only one missing piece of the puzzle: will the new components play nice with all the other control modules in the gang?
 
+### Variant coding
 I performed some additional research and stumbled upon something car manufacturers call *variant coding*, which is basically a code that tells all control modules which features they have enabled and which are disabled. This code is the boss, sitting pretty on the **BCM**  — so without the ability to modify the variant code, the new EBCM wouldn’t work. Fortunately, there are open source tools out there that can help do exactly that.
 
 So, I purchased all the required parts, then, it was a plug-and-play party – plugged them in and rewired everything according to the specifications in the workshop manual. 
