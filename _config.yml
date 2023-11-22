@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Home
+title: Brey Laude's Blog
 
 # Your name to show in the footer
 author: Brey Laude
@@ -120,7 +120,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "brey laude,laude technologies,brey,laude"
 
 ######################################
 # --- Colours / background image --- #
