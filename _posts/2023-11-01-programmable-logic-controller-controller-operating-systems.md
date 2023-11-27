@@ -1,6 +1,6 @@
 ---
 layout: post
-title: programmable logic controller - controller operating systems
+title: Programmable Logic Controller - Controller Operating Systems
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
