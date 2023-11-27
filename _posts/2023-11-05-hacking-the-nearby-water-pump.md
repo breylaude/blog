@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacking water pumps
+title: Hacking the nearby water pump
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
