@@ -21,10 +21,10 @@ author: Brey Laude
 
 navbar-links:
   About: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Resources:
+#    - Laude Technologies: "https://laudetechhnologies.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+  Author's Home: "https://laudetechnologies.com"
 
 ################
 # --- Logo --- #
