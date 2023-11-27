@@ -8,11 +8,9 @@ tags: [car hacking]
 comments: true
 ---
 
-### Cars
+Basically, they're turning into fancy computers with wheels. Soon, self-driving cars might be the new normal. Cool but the more these cars get interconnected, the more we're opening ourselves up to different digital attack surfaces. 
 
-Basically, they're turning into fancy computers on wheels. Soon, self-driving cars might be the new normal. Cool but the more these cars get interconnected, the more we're opening ourselves up to different digital attack surfaces. 
-
-Whether or not you're into cars, or *into hacking cars*, I'm gonna spill the beans on what I think the future holds for connected cars and the security challenges this represents for customers and manufacturers. I'll also write the story of how I managed to hack my own car.
+Whether or not you're into cars, or *into hacking cars*, or why are you here if you're not into hacking cars, I'm assuming you're into hacking cars, anyway, I'm sharing my thoughts on what the future holds for connected cars and the security challenges this represents for customers and manufacturers. I'll also share how I managed to hack my own car.
 
 ### Car electronics
 
