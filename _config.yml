@@ -22,8 +22,8 @@ author: Brey Laude
 navbar-links:
   About: "aboutme"
   Resources:
-    - Author's Home: "https://laudetechnologies.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Author's home: "https://laudetechnologies.com"
+    - Tag index: "https://breylaude.github.io/tags"
 #  Author's Home: "https://laudetechnologies.com"
 
 ################
