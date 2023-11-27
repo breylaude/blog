@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Car hacking - How I hacked a connected car
+title: Automotive Hacking - Car Electronics
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
