@@ -1,12 +1,20 @@
 ---
 layout: page
-title: about
+title: About
 subtitle: 
 ---
 
-Brey LAUDE, founder and lead information security engineer ![brey laude](assets/img/avatar.jpg) at [Laude Technologies](https://laudetechnologies.com), a filipino information research and development firm. Active in the 'security sector' for 8 years. Experienced with various aspects of cyber security, such as: penetration testing, malware analyses, vulnerability research, incident handling, binary exploitation, embedding operating systems, ICS/SCADA hacking, ethical hacking, etc.worked as a software developer security researcher/hacker/pentester, software developer, systems developer and security engineer, experienced in cybersecurity, site reliability engineering, distributed computing and software engineering.
+I've honestly no interest in writing blocks of narcissistic texts describing myself. By that, here's a few list of websites I saw on google about me.
 
-right below are a few highlights of his contributions. for more details, check his, [linkedin](https://www.linkedin.com/in/blaude/) and [github](https://github.com/breylaude/), The best way to reach brey is via [email](mailto:laude822@gmail.com), not social networks, you can also [call](tel:+639365671353) but brey prefer e-mail for "cold calls."
+- [https://en.everybodywiki.com/Brey_Laude](https://en.everybodywiki.com/Brey_Laude)
+
+- [https://www.crunchbase.com/person/brey-laude](https://www.crunchbase.com/person/ignas-laude)
+
+- [https://www.f6s.com/member/brey-laude](https://www.f6s.com/member/brey-laude)
+
+
+# If you're looking to contact me
+The best way to reach me is via [email](mailto:laude822@gmail.com), not social networks, you can also [call](tel:+639365671353) but I prefer e-mail for "cold calls."
 
 ### contributions
 
