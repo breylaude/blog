@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I hacked a connected car
+title: Automotive Hacking - How I Hacked a Connected Car
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,7 +8,7 @@ tags: [car hacking]
 comments: true
 ---
 
-I managed to add some new modules/ECUs, and get this, my car just went along with it without batting an eye. No security checks, no questions asked. Jazzing my own vehicle with some extra features. Sure, the module I added is from the same maker, but the wild part is, if someone's got the time, they could whip up their own module and sneak it up their ass, I mean car.
+I managed to add some new modules/ECUs, my car just went along with it without batting an eye. No security checks, no questions asked. Jazzing my own vehicle with some extra features. Sure, the module I added is from the same maker, but the wild part is, if someone's got the time, they could whip up their own module and sneak it up their car.
 
 ### First things first
 I had this idea to amp up my car with a combination of traction and stability control, useful for some specific off-road situations. So, first things first, I set out to get a copy of the workshop manual for the car - which contains detailed wiring diagrams of all components. Reading through the pages, I clocked that the feature I was gunning for was controlled by the **Electronic Brake Control Module (EBCM)**.
