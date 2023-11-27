@@ -22,9 +22,9 @@ author: Brey Laude
 navbar-links:
   About: "aboutme"
   Resources:
-#    - Laude Technologies: "https://laudetechhnologies.com"
+    - Author's Home: "https://laudetechhnologies.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's Home: "https://laudetechnologies.com"
+#  Author's Home: "https://laudetechnologies.com"
 
 ################
 # --- Logo --- #
