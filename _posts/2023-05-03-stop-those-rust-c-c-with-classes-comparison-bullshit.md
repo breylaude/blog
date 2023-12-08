@@ -8,7 +8,7 @@ tags: [rant, rust, c, c++]
 comments: true
 ---
 
-I'm seeing too much comparsion on the internet about why C is unsafe and Rust is safe. True. But they are **NOT** even the same class of language. 
+I'm seeing too much comparison on the internet about why C is unsafe and Rust is safe. True. But they are **NOT** even the same class of language. 
 
 C is minimal. The compiler is easy to write. Even nicknamed *portable assembler* for how low level it is. Rust on the other hand, is a big, complicated language with many features. And a massive standard library. It's not even close. Here's a short list of features Rust have but C does not.
 
