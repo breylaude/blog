@@ -1,6 +1,6 @@
 ---
 layout: post
-title: solving codeforces div1A, neko's maze game
+title: Solving Codeforces DIV1A, Neko's Maze Game
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
