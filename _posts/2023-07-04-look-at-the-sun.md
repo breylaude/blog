@@ -1,6 +1,6 @@
 ---
 layout: post
-title: look at the sun
+title: Look at the sun
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,49 +8,39 @@ tags: [rant]
 comments: true
 ---
 
+There are a lot of conventionally attractive women in the city, and the majority of them didn't appeal to me.
+
 {: .box-note}
-disclaimer: this applies to non-women also but they’re not the focus of this rant
+DISCLAIMER: This applies to non-women also but they’re not the focus of this rant
 
-> bullshit so you look away
+These are not syrup, these are not jund, these are blinding people.
 
-there are a lot of conventionally attractive women in my city, and the majority of them do nothing for me.
+### Humans
+Humans are odd creatures. I will admit I do not understand them, regardless of how I try.
 
-these are not syrup, these are not jund, these are blinding people.
+Each human is flawed beyond measure, we’re flawed in ways we don't even realise we can be flawed in.
 
-### humans
+I appreciate people who accept this fact.
 
-humans are odd creatures. i will admin i do not understand them, regardless of how i try.
+What I don't like are the people that try to hide it. The faces of the world, the celebrities.
 
-each human is flawed beyond measure, we’re flawed in ways we dont even realise we can be flawed in.
+### Girls
+These are the ladies you see at the types of parties you don't really get invited to. These are the women that told you that you're a weirdo in highschool, and these are the women you grew up hearing *thats the sort of girl you want* time and time again.
 
-i appreciate people who accept this fact.
+These women are suns, blinding suns that burn so bright and want the world to know it.
 
-what i dont appreciate are the people that try to hide it. the faces of the world, the celebrities, the corporates.
+My eyes cannot handle the intensity.
 
-the people who are not human.
+Give me a moon, give me an asteroid, give me a nebula.
 
-and that brings me to layer 02
+Give me a black hole, give me a space rock.
 
-### girls
+Give me a void.
 
-these are the women you see at the types of parties you dont get invited to. these are the women that bullied you in highschool, and these are the women you grew up hearing “thats the sort of girl you want” time and time again.
+Give me anything, but don't make me stare at the sun.
 
-these women are suns, blinding suns that burn so bright and want the world to know it.
+Because after all….
 
-my eyes cannot handle the intensity.
-
-give me a moon, give me an asteroid, give me a nebula.
-
-give me a black hole, give me a space rock.
-
-give me a void.
-
-give me flaws.
-
-give me anything, but dont make me stare at the sun.
-
-because after all….
-
-> you can have fun on rainy days too
+> "You can have fun on rainy days too"
 
 `:wq`
