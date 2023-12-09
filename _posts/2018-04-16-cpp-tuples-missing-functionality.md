@@ -1,6 +1,6 @@
 ---
 layout: post
-title: c++ tuples missing functionality
+title: C++ Tuples Missing Functionality
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
