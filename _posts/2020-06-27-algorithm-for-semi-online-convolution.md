@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O(nlog^2/loglogn) algorithm for semi-online convolution
+title: O(nlog^2/loglogn) Algorithm for Semi-online Convolution
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,9 +8,9 @@ tags: [cp]
 comments: true
 ---
 
-Semi-online convolution roughly says fi = ci(∑ij=1fi−jgj)fi = ci(∑j = 1ifi−jgj) recursion
+Semi-online convolution roughly says `fi = ci(∑ij=1fi−jgj)fi = ci(∑j = 1ifi−jgj)` recursion
 
-Everyone uses divide and conquer fft O(nlog2n) O(nlog2⁡n) calculate right.
+Everyone uses divide and conquer `fft O(nlog2n)` `O(nlog2⁡n)` calculate right.
 
 Probably, split it into two sections, first calculate the left side, then calculate the contribution of the left side to the right side in one fft, and then calculate the right side.
 
