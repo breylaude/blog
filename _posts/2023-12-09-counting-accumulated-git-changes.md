@@ -8,9 +8,11 @@ tags: [git]
 comments: true
 ---
 
-It's almost christmas and the team is tasked with sharing some highlights this year. We thought sharing how much code we've written is a good idea. 
+It's almost xmas, and the team has been tasked with sharing some highlights from the year. We thought it would be a good idea to share how much code we've written. 
 
-Sure, it's not a great metric for measuring productivity, but it'll do for bragging rights. But.. how? `git diff --shortstat` works, however I'm not sure which commit occurred a year ago.
+Sure, it's not a great metric for measuring productivity, but it'll do for bragging rights. 
+
+But.. how? `git diff --shortstat` works, however I'm not sure which commit occurred a year ago.
 
 Not sure if this is the best method. But here's what I did.
 
