@@ -8,8 +8,6 @@ share-img: /assets/img/honeycomb-lx2k.png
 tags: [arm, honeycomb lx2k]
 ---
 
-![](/assets/img/honeycomb-lx2k.png)
-
 My previous post on my **ARM workstation/server** was two months ago. I think it's time for an update on how things are progressing and if there are any issues. 
 
 No, not at all. There are no severe problems with the board. **NXP** and **SolidRun** did an excellent job in developing it.
