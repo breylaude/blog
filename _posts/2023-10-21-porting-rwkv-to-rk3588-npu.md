@@ -10,11 +10,11 @@ comments: true
 
 {: .box-warning}
 Agenda
-- **RK3588 NPU**
-- **RWKV**
-- Attempt 1 - Convert from **ONNX**
-- Attempt 2 - offloading MatMul from **GGML**
-- Conclusion
+1 **RK3588 NPU**
+2 **RWKV**
+3 Attempt 1 - Convert from **ONNX**
+4 Attempt 2 - offloading MatMul from **GGML**
+5 Conclusion
 
 ### RK3588 NPU
 - Fixed pipeline convolution processor
