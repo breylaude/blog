@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assembly version of "hello, world"
+title: Assembly Version of "Hello, world"
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,6 +8,7 @@ tags: [assembly, programming]
 comments: true
 ---
 
+{: .box-note}
 Today's review of the compilation.
 
 ```assembly
