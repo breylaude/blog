@@ -25,6 +25,7 @@ I figured **LX2160A** struggles to transcode **4K 60FS H256** into **1080p** in 
 I can only guess this have something to do with the cache and branch prediction. It seems to struggle when decision making and memory access is the bottlenek while very good at pure number crunching.
 
 ### Building missing Pkgs
+
 {: .box-note}
 **Arch Linux ARM** has done an outstanding job of maintaining and developing **Arch Linux** on **ARM processors**. 
 
