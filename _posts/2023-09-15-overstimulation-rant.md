@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Too much external stimula
+title: Overstimulation Rant
 subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
