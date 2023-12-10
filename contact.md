@@ -6,7 +6,11 @@ subtitle:
 
 The best way to reach me is via XMMP/Jabber, not social networks.
 
-#### XMMP/Jabber: `laude(at)magicbroccoli.de`, `laude(at)404.city`, `laude(at)anonxinon.de`
+#### XMMP/Jabber
+
+- `laude(at)magicbroccoli.de`
+- `laude(at)404.city`
+- `laude(at)anonxinon.de`
 
 #### Keybase : `laude`
 
