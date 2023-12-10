@@ -20,8 +20,6 @@ The best way to reach me is via XMMP/Jabber, not social networks.
 
 You can also [call](tel:+639365671353) but I prefer e-mail for "cold calls."
 
-#### Mail : laude822(at)gmail.com
-
 #### PGP : [90B6 4459 F5F3 7E5B](/assets/pgp/pgp-keys.asc)
 - Valid from: 10.12.2023
 - Valid until: Forever ( For now )
