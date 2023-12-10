@@ -20,7 +20,7 @@ author: Brey Laude
 ###############################################
 
 navbar-links:
-  About: "aboutme"
+  Contact: "contact"
   Resources:
     - Author's home: "https://laudetechnologies.com"
     - Tag index: "https://breylaude.github.io/tags"
