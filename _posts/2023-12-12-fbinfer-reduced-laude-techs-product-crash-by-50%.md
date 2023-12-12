@@ -2,6 +2,7 @@
 layout: post
 title: FBInfer Reduced LaudeTech's Product Crash by 50%
 subtitle: 
+cover-img: /assets/img/laude-technologies.jpg
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: []
