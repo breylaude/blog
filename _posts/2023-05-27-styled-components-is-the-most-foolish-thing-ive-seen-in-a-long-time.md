@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Styled Components* is the most foolish thing i've seen in a long time
+title: Styled Components is the most foolish thing i've seen in a long time
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
