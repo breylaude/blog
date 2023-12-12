@@ -1,19 +1,22 @@
 ---
 layout: post
 title: Porting RWKV to RK3588 NPU
-subtitle: I want a low-power and fast local LLM
+subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: [llm]
 comments: true
 ---
 
+{: box-note}
+I want a low-power and fast local LLM
+
 {: .box-warning}
 Agenda
-1) **RK3588 NPU**
-2) **RWKV**
-3) Attempt 1 - Convert from **ONNX**
-4) Attempt 2 - offloading MatMul from **GGML**
+1) **RK3588 NPU**,
+2) **RWKV**,
+3) Attempt 1 - Convert from **ONNX**,
+4) Attempt 2 - offloading MatMul from **GGML**,
 5) Conclusion
 
 ### RK3588 NPU
