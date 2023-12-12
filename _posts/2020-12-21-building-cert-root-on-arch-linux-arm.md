@@ -11,18 +11,18 @@ comments: true
 {: .box-note}
 Goal here is to document my process of building ROOT on **ARM64 Arch Linux**. It's quite trivial, just in case I forget how to do it in the future.
 
-![](assets/img/bcr-1.png)
+![](/assets/img/bcr-1.png)
 
 Arch Linux is running on my ARM server. which the official repository's ROOT should include. Naturally, though, it didn't. This seems that ROOT compiles properly on **x86** but not on **ARM** in some way. Unless you change the official **PKGBUILD**, anyway. Let's look into this, then.
 
 ### PKGBUILD and Ports
 The **PKGBUILD** system in Arch Linux is similar to **BSD** ports. where you can obtain build scripts in bulk from a repository. If you use the right command, the programs will eventually produce an installable package for you. (Running makepkg for Arch). Consequently, the first step is to determine which repository ROOT is located in:
 
-![](assets/img/bcr-2.png)
+![](/assets/img/bcr-2.png)
 
 In the communal repository, then. Alright. Using DuckDuckGo, I discovered that the community repository is located at `svntogit/community.git`. As you clone yourself, get yourself some milk, will require some time to finish. Following that, the cloned folder should have a large number of directories.
 
-![](assets/img/bcr-3.png)
+![](/assets/img/bcr-3.png)
 
 ### Building ROOT
 You can now build root here by copying the root directory to a different location. But it makes sense to maintain the directories tidy. A few fixes need to be installed later in order for ROOT to build. For this reason, ROOT was never included in the official repository.
@@ -51,14 +51,14 @@ Set `-DTARGET_ARCHICTURE=generic` for `vc‘s` build. Otherwise it targets **SSE
 
 Finally go back to ROOT’s directory. Now it’s time to patch root manually. I don’t know why. But ROOT always complains about not linking to `dl` when also linking to `sqlite3`. Run `makepkg`, wait for it to download the source tar file. `Ctrl-C` out of it. And `vim root_vx.yy.zz.tar.gz`. Vim supports changing files in tars directly. Navigate yourself to `tree/dataframe/CMakeLists.txt`. Find the line `target_link_libraries(ROOTDataFrame PRIVATE ${SQLITE_LIBRARIES})` and add `dl` to it. Then do the same to `sql/sqlite/CMakeLists.txt`
 
-![](assets/img/bcr-4.png)
+![](/assets/img/bcr-4.png)
 
 {: .box-note}
 Tell ROOT to link against `dl` with SQLite
 
 Run `makepkg --skipinteg` and wait. ROOT should built in a few hours (or a day if on a embedded board).
 
-![](assets/img/bcr-5.png)
+![](/assets/img/bcr-5.png)
 
 Finish. Use `sudo pacman -U` to install the package.
 
