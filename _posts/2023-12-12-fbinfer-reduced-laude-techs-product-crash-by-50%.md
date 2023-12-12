@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBInfer Reduced our Product Crash by 50%
+title: FBInfer Reduced LaudeTech's Product Crash by 50%
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
