@@ -1,6 +1,6 @@
 ---
 layout: post
-title: styled components is the most foolish thing i've seen in a long time
+title: *Styled Components* is the most foolish thing i've seen in a long time
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,19 +8,19 @@ tags: [rants, programming]
 comments: true
 ---
 
-Styled components been bugging me like a persistent mosquito on a summer night.
+Styled component's been bugging me like a summernight night-time mosquito.
 
-Alright, *Styled Components*
+Fucking *Styled Components*
 
-You’ve probably heard of it - this trend that's been hailed as the savior of styling in the world of web development. 
+This trend, which has been hailed as the saving grace of styling in the web development industry, is probably familiar to you. 
 
-But pardon my skepticism, because I can’t help but wonder, is it really THAT groundbreaking?
+*But pardon my skepticism*, because I can’t help but wonder, is it really THAT groundbreaking?
 
 The core idea behind *Styled Components* is to remove the ‘cascade’ from CSS. 
 
 Now, I get it, cascading styles can be a headache. But, and it’s a big but, does eradicating this cascade lead to better, more maintainable designs? 
 
-Fucking color me skeptical.
+**Fucking color me skeptical.**
 
 ### Lost in translation
 
@@ -36,12 +36,12 @@ It's like trying to complete a jigsaw puzzle with all the pieces turned upside d
 
 ### Maintainable designs or maintenance nightmare?
 
-Advocates argue that Styled Components make designs more maintainable. 
+Advocates argue that *Styled Components* make designs more maintainable. 
 
 I beg to differ. 
 
 {: .box-note}
-Picture this: you have a massive project with dozens of components, each with its own set of styles. When you want to make a global change, say, modify the color scheme, you find yourself hunting down each styled component like a detective following a trail of breadcrumbs.
+Imagine you have a massive project with dozens of components, each with its own set of styles. When you want to make a global change, say, modify the color scheme, you find yourself hunting down each styled component like a detective following a trail of breadcrumbs.
 
 Call me old-fashioned comrade, but I miss when CSS allowed for a coherent, unified approach. 
 
@@ -57,7 +57,7 @@ For smaller projects or specific use cases, they might work wonders. But declari
 
 So, here’s to hoping that the industry finds a way to combine the best of both worlds. 
 
-Let’s not throw the baby out with the bathwater. CSS, with its cascading nature, has its flaws, but it also possesses a certain charm. 
+Let’s not throw the baby out with the bathwater. Although CSS has certain drawbacks due to its cascading style, it also has some appeal. 
 
 Let’s not sacrifice that charm for the allure of the new. After all, in the ever-evolving world of web development, a little respect for tradition might just be the secret ingredient to creating truly exceptional designs.
 
