@@ -8,7 +8,7 @@ tags: [rants, programming]
 comments: true
 ---
 
-Styled component's been bugging me like a summernight night-time mosquito.
+Styled component's been bugging me like a summer night-time mosquito.
 
 Fucking *Styled Components*
 
