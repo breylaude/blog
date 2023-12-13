@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enterprise IT Security hypocrisy
+title: Enterprise IT Security Hypocrisy
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,7 +8,7 @@ tags: [security]
 comments: true
 ---
 
-I've been debuging issue with some clients. We recently updated how our virtual camer works on MacOS. Before we use the **DAL interface** and now switched to the more secure system extension. **DAL** works more like how Windows implements virtual camera using **Direct Show**. 
+I've been debuging issue with some clients. We recently updated how our virtual camera works on MacOS. Before we use the **DAL interface** and now switched to the more secure system extension. **DAL** works more like how Windows implements virtual camera using **Direct Show**. 
 
 The system loads a dynamic library into apps that wants to use it. There are obvious problems, any **DAL plugin** can execute arbitrary code at that point. Including reading the process's memory and steal confidential information. Also, since **DAL** is executing as another app, you need a `daemon` to transport video frames from source to destination.
 
