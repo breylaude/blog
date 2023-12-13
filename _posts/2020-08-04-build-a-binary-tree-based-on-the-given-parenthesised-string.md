@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build a binary tree based on a given parenthesized string
+title: Build a Binary Tree Based on a Given Parenthesized String
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
