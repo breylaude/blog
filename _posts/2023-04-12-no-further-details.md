@@ -1,35 +1,37 @@
 ---
 layout: post
-title: no further details
+title: No Further Details
 subtitle: 
-gh-repo: breylaude/blog
+gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
-tags: [rants]
+tags: []
 comments: true
 ---
 
-i really couldnt come up with a better title than this i just wanted something with the acronym *“NFD”* because this is in part about normal form designators
+Honestly, I couldn't think of a better title than this. Since this is partially about Normal Form Designators, I just wanted something with the acronym *“NFD”*.
 
-so with that out of the way...
+### Normal Form Designators
+{: .box-note}
+*Brian Cantwell Smith* is one of the many people who are far smarter than I am. 
 
-> i must try to keep my focus. i must try to keep my head together. i might not be there when you need me but. i must try to keep my head down.
+Their **MIT thesis Procedural Reflection in Programming Languages**, which is something else, is how I first became aware of them.
 
-### normal form designators
+As usual, I learned the concepts presented in this post from the aforementioned paper. As such, I'm not sure if I should give credit to Brian for these concepts, but I will since I'm not sure to whom to give credit otherwise. 
 
-*Brian Cantwell Smith* is one of the many people who are far smarter than i am. 
-
-i learnt of them through their MIT thesis Procedural Reflection in Programming Languages which is something else
-
-as always, the ideas expressed through this post were taught to me first through the above paper, as such im unsure whether to attribute these ideas to Brian, but will do so as im not sure who to attribute otherwise. knowledge is a shared exercise and i welcome and thank everyone who had a part to play
+Acquiring knowledge is a collaborative endeavor, and I extend my gratitude to all those who contributed.
 
 {: .box-error}
-another disclaimer but its highly likely im misusing terminology here, if thats the case please replace all occurences of phrases that appear in brians book with made up words that take up the meaning i have expressed here.
+DISCLAIMER: I may be misusing terminology here. If so, please substitute made up words that accurately convey the meaning I've given here for any instances of phrases that appear in Brian's book.
 
-**pripl* is about the development of `LISP-3`, which is a scheme endowed with reflective capabilities. the scope of this is outside of my brain ability this blog post, but im sure i will post about that also. however, one idea that came up a lot was of normal form designators and i thought they were neat.
+**pripl* is about the development of `LISP-3`, which is a scheme endowed with reflective capabilities. 
 
-at its core, an NFD is the semantic grouping of the result of evaluating a statement, regardless of how far it has been evaluated.
+The extent of this is beyond my brain capacity to cover in one blog post, but rest assured that I will do so in the future. 
 
-as such, the following scheme statements all relate to the same normal form designator:
+On the other hand, Normal Form designators were a frequently suggested idea, and I thought they were a neat idea.
+
+At its core, an NFD is the semantic grouping of the result of evaluating a statement, regardless of how far it has been evaluated.
+
+As such, the following scheme statements all relate to the same Normal Form Designator:
 
 ```haskell
 (if true
@@ -40,36 +42,34 @@ as such, the following scheme statements all relate to the same normal form desi
 (* 23 6)
 69
 ```
+
 {: .box-note}
-note that the set need not be every step of a single evaluation, the following also is part of the same NFD set:
+Note that the following is included in the same **NFD** set as the following, so there's no need to include every step of a single evaluation:
 
 `(- 70 1)`
 
-### the point is
+### The point is
+I liked this idea for several reasons, but the main reason I'm writing this post is to use it as an opportunity to vent my frustrations about software.
 
-i liked this idea for a few reasons, but the reason for this post is because it lets me complain about computers and software yet again.
+In my opinion, all of the so-called *progress*, particularly with regard to the modern web, falls short of actually improving the NFD groups that the technology claims to improve.
 
-it feels to me like all the “““progress”““, specifically in the modern web, fails to be meaningful improvement in the sense that we arent really changing the NFD groups that the technology claims to improve.
+We still use the internet to do a few basic things:
+- Send messages to each other
+- Distribute files
+- View media
 
-we still use the internet to do a few basic things:
+And instead of coming up with effective, context-focused methods to accomplish this, we just keep creating ever-larger expressions that amount to the same thing, calling it "progress" because it's harder for the typical person to understand.
 
-- send messages to each other
-- distribute files
-- view media
-- 
-and rather than find efficient and context focussed ways of doing so, we end up just building… larger and larger expressions that evaluate to the same thing, and claim that because its more complex for the average person to understand, its “progress”.
+We continue to assert that *"operating system improvement"* consists of repeatedly creating an additional abstraction layer on top of the same meaningless signifiers of what users should expect from an operating system, or reinventing them.
 
-we still claim that “operating system improvement” is reinventing (or many times, building yet another abstraction layer on top of) the same empty signifiers of what people expect in an operating system.
+Rather than building something different, we just keep building.
 
-we keep building up, rather than building different.
+### Fin
+I'm simply sick of seeing the newest technology to be some incredibly bloated piece of software that needs a corporation in the middle and ever-more-powerful computers to implement features that have been around for ages.
 
-### fin
+I'm sick of seeing people trained in what the same tool industry decided is this month's fad and never trying anything truly unique.
 
-im just tired of seeing the latest new thing being some massively bloated piece of software that requires a corporation in the middle and ever more powerful computers, just to impliment the same functionality that we’ve had forever.
-
-im tired of people being trained in the same tools industry decided is the fad this month and never trying something truly unique.
-
-i want to find new normal form designators, and have that uniqueness being a virtue in of itself.
+I wish to find new Normal Form Designators and make their distinctiveness a positive attribute in and of itself.
 
 `C-c C-x`
 
