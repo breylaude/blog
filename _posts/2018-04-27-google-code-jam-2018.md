@@ -1,6 +1,6 @@
 ---
 layout: post
-title: google code jam 2018 - qualification round
+title: Google Code Jam 2018 - Qualification Round
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
