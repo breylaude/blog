@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bipartite graph
+title: Bipartite Graph
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,23 +8,20 @@ tags: [cp]
 comments: true
 ---
 
-Given an n + n bipartite graph, each edge has p base i,j p base i,j. The probability of occurrence of, find the probability that has a perfect match.
+Given an `n + n` bipartite graph, each edge has `p base i,j` `p base i,j`. The probability of occurrence of, find the probability that has a perfect match.
 
 `n ≤ 7,15s n ≤ 7,15s`
 
-`Subtask: n ≤ 6,7s n ≤ 6,7s`
+Subtask: `n ≤ 6,7s n ≤ 6,7s`
 
-Answer:
-
-Shape pressure, 2^n 2^n Bit represents point X 2^n 2^n Whether there is a perfect match for the subsets, each time the Y-square point is enumerated, a solution to the X-square point is connected.
+### Answer
+Shape pressure, `2^n 2^n` Bit represents point `X` `2^n 2^n`. Whether there is a perfect match for the subsets, each time the Y-square point is enumerated, a solution to the X-square point is connected.
 
 After the memorized search can be passed.
 
-After running dfs, I found that there are only 6e4 different states.
+After running `dfs`, I found that there are only `6e4` different states.
 
-### Code: 
-
-```cpp
+```c++
 #include<bits/stdc++.h>
 #define int long long
 #define debug(...) fprintf(stderr,__VA_ARGS__)
