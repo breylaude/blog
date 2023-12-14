@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Strange Thing About Clang/GCC
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+subtitle: 
+gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: []
 comments: true
