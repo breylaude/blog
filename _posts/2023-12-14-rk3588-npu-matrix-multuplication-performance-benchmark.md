@@ -8,7 +8,7 @@ tags: [LLM]
 comments: true
 ---
 
-The goal is to run a fine-tuned large language model on my RK3588 development board for hacking/red teaming cases.
+The goal is to run a fine-tuned large language model on my RK3588 development board for Laude Tech's hacking/red teaming cases.
 
 Right now, it appears that the RWKV model is the simplest to implement. I don't have to figure out a way to make **MultiHeadAttention** function on the NPU, at least. 
 
