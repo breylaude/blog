@@ -89,7 +89,7 @@ Another question I'm asking myself, *What is the NPU's scalability with matrix s
 
 Beginning at 128 and increasing by 128 all the way up to 4096. The measured time for matrix multiplication on the NPU is represented by the blue line. Furthermore, since matrix multiplication is approximately `O(n^3)`, the red line is just the blue line fitted with an exponential curve.
 
-![](assets/img/rknn-matmul-time-curve.png)
+![](/assets/img/rknn-matmul-time-curve.png)
 
 Image: Line graph showing the time it takes to run matrix multiplication on the NPU
 
