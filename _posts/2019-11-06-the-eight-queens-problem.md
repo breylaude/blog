@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the eight queens problem
+title: The Eight Queens Problem
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -8,23 +8,32 @@ tags: [cp]
 comments: true
 ---
 
-There are two difficulties: 1. How to judge whether a queen can be placed in a certain position; 2. Backtracking.
+{: .box-warning}
+There are two difficulties: 1.) How to judge whether a queen can be placed in a certain position; 2.) Backtracking.
 
-If you give this 8*8 matrix a coordinate, the horizontal (rows) is i = 0 to 7, and the vertical (columns) is j = 0 to 7. Then it can be found that in the direction of each diagonal line (/), the sum of the horizontal and vertical coordinates (i + j) of each grid is a fixed value, and the diagonal line from the upper left to the lower right has a value of 0~14 (0+0; 0+1,1+0; 0+2,1+1,2+0; ...; 6+7,7+6; 7+7). 
+If you give this `8*8` matrix `a` coordinate, the horizontal (rows) is `i = 0 to 7`, and the vertical (columns) is `j = 0 to 7`. Then it can be found that in the direction of each diagonal line (/), the sum of the horizontal and vertical coordinates `(i + j)` of each grid is a fixed value, and the diagonal line from the upper left to the lower right has a value of `0~14 (0+0; 0+1,1+0; 0+2,1+1,2+0; ...; 6+7,7+6; 7+7)`. 
 
-Similarly, in the direction of each backslash (), the relationship between the abscissa and ordinate of each grid is, (i + (7-j)) is a fixed value, the diagonal line from top right to bottom left, Its value is 0~14 in sequence.
+Similarly, in the direction of each backslash (), the relationship between the abscissa and ordinate of each grid is, `(i + (7-j))` is a fixed value, the diagonal line from top right to bottom left, Its value is `0~14` in sequence.
 
-Therefore, before starting to find a solution, set an array for each of the horizontal, vertical, diagonal, and backslash directions. All elements are initialized to 0 (indicating that they can be placed). Then, check before placing the queen in (i, j) Whether rows[i], cols[j], slash[i+j], and bslash[i+7-j]are all 0, it can be judged whether a queen can be placed in this position. Since the placement process is placed line by line from top to bottom, this rows array can actually be removed. 
+Therefore, before starting to find a solution, set an array for each of the horizontal, vertical, diagonal, and backslash directions. All elements are initialized to 0 (indicating that they can be placed). Then, check before placing the queen in `(i, j)` Whether `rows[i]`, `cols[j]`, `slash[i+j]`, and `bslash[i+7-j]` are all `0`, it can be judged whether a queen can be placed in this position. 
 
-In this way, the first difficulty is solved. (Ps bslash -> backslash) The
+Since the placement process is placed line by line from top to bottom, this rows array can actually be removed. 
 
-second difficulty, backtracking, I don’t think it's easy to make it clear. Simply put, what needs to be backtracked is the aforementioned colsslashbslash array. Line by line: each line is searched from the first position. When a valid position is found, a queen is placed, and the corresponding value is set to 1 (you can check whether it can be placed in a later position), and then continue to search for the next line Position (recursive call); if there is no suitable position in the next line (recursive return), reset the corresponding position to 0, and then find the next position in this line.
+In this way, the first difficulty is solved. `(Ps bslash -> backslash)`. 
 
-This question is really not a difficult question, I actually talked so much. It can be seen how free I am now. As the saying goes: Frequent bullshit can help prevent egg pain.
+The second difficulty, backtracking, I don’t think it's easy to make it clear. Simply put, what needs to be backtracked is the aforementioned `colsslashbslash` array. 
+
+Line by line: each line is searched from the first position. When a valid position is found, a queen is placed, and the corresponding value is set to `1` (you can check whether it can be placed in a later position), and then continue to search for the next line Position (recursive call); if there is no suitable position in the next line (recursive return), reset the corresponding position to `0`, and then find the next position in this line.
+
+Since I spoke so much, this question is really not that tough. You can see that I'm free now. 
+
+As the saying goes: 
+
+> Frequent bullshit can help prevent egg pain.
 
 Attached code:
 
-```cpp
+```c++
 #include<stdio.h>
 #include<stdlib.h>
 #include <string.h>
