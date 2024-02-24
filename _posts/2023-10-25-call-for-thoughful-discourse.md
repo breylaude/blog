@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Call for Thoughtful Discourse
-subtitle: 
-share-img: /assets/img/home-heading.jpg
-cover-img: /assets/img/home-heading.jpg
+subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [rant, politics]
