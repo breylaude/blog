@@ -22,7 +22,7 @@ author: Brey Laude
 navbar-links:
   Contact: "contact"
   Resources:
-    - Author's home: "https://laudetechnologies.com"
+    - Company : "https://laudetechnologies.com"
     - Tag index: "https://breylaude.github.io/tags"
 #  Author's Home: "https://laudetechnologies.com"
 
@@ -73,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
+  ORCID: 0009-0003-5014-3800
   google-scholar: citations?hl=en&user=U_ZOGDoAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that brey's cool
+rss-description: This website is a virtual proof that I am cooler than your refrigerator
 
 ###########################
 # --- General options --- #
