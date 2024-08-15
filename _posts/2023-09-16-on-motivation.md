@@ -1,6 +1,6 @@
 ---
 layout: post
-title: on motivation
+title: On motivation
 subtitle: 
 gh-badge: [star, fork, follow]
 tags: [lugubrious, despondent]
@@ -8,72 +8,70 @@ comments: true
 ---
 
 {: .box-warning}
-Disclaimer: this is gonna be filled with armchair grilled cheese article and im also not sure what im trying to say. i also am probably guilty of most of this myself but whatever.
+Disclaimer: This is gonna be filled with armchair grilled cheese article and I'm also not sure what I'm trying to say. I also am probably guilty of most of this myself but whatever.
 
-what motivates people to act the way they do. in heavily cynical mindsets it seems like there are a few key motivators that present themselves almost anywhere you go.
+What motivates people to act the way they do. In heavily cynical mindsets it seems like there are a few key motivators that present themselves almost anywhere you go.
 
-im guilty of some of them and im aware of that. im guilty of some of them and im unaware of it. but i do think things would be better if we could try to become self-aware about some of these
+I'm guilty of some of them and I'm aware of that. I'm guilty of some of them and I'm unaware of it. But I do think things would be better if we could try to become self-aware about some of these.
 
-then again thats just edgy thought. _we live in a society_ so on so on.
+Then again, thats just edgy thought. _we live in a society_ so on so on.
 
-fucking sue me i guess.
+Fucking sue me I guess.
 
-### sex
+### Sex
 
-lets start with the most obvious and most denied. so so so many interactions people have are framed as either a means to get sex, or a means to flaunt getting sex. we have layers and layers of pseudo false-truths built on top of this, that everyone just seems to agree with because it makes it easier to do what people want to do without feeling bad. we have all these concepts like true love and romantic attraction, but peel away the layers and they’re all just physical lust with a shiny coat of paint.
+Starting with the most obvious and most denied. So so so many interactions people have are framed as either a means to get sex, or a means to flaunt getting sex. We have layers and layers of pseudo false-truths built on top of this, that everyone just seems to agree with because it makes it easier to do what people want to do without feeling bad. We have all these shitty concepts like true love and romantic attraction, but peel away the layers and they’re all just physical lust with a shiny coat of paint.
 
-and its not just the people who are obviously borderline nymphos. the same people that flaunt their preference for romantic attraction are just as guilty. the people who build their personas around their apparent dismissal of physical lust are just as misguided.
+And it's not just the people who are obviously borderline nymphomaniacs. The same people that flaunt their preference for romantic attraction are just as guilty. The people who build their personas around their apparent dismissal of physical lust are just as misguided.
 
-the amount of anger and hatred this thinking causes astounds me. the amount of self hatred induced by having to live through this - and depending on headspace, participating in this - is mind boggling.
+The amount of annoyance this thinking causes astounds me. The amount of self-hatred induced by having to live through this - and depending on headspace, participating in this - is mind boggling.
 
-i truly hate it, despite being guilty of it myself.
+I truly despise it, despite being guilty of it myself.
 
-### fame
+### Fame
 
-everyone wants their own fame. people are obsessed with celebrity worship and its what most people seem to aspire to. every interaction is framed with trying to be above other people, to in some way be the hero of the story, the main character, in a world where every other person is trying to do the same. every conversation is a game with a winner, and nothing else.
+Everyone wants their own fame. People are obsessed with celebrity worship and it's what most people seem to aspire to. Every interaction is framed with trying to be above other people, to in some way be the hero of the story, the fucking main character, in a world where every other person is trying to do the same. Every conversation is a game with a winner, and nothing else.
 
-celebrity worship makes this worse because its gives people an out, no longer do they have to admit it because
+Celebrity worship makes this worse because it gives people an out, no longer do they have to admit it because
 
 > oh im not like those people, this is just a low-key thing.
 
-every smaller community has the same problem. people trying to make a name for themselves, people trying to stand out.
+Every smaller community has the same problem. People trying to make a name for themselves, people trying to stand out.
 
-being an observer is almost like a death sentence to them.
+Being an observer is almost like a death sentence to them.
 
-there are no things to put your name on that will matter past your lifetime. nothing. no science discovery, no piece of media. at most you’ll be appreciated for a while after your death, and then relegated to the unpopular nerdy kids to geek out over and thats it.
+There are no things to put your name on that will matter past your lifetime. Nothing. No fucking science discovery, no piece of media. At most you’ll be appreciated for a while after your death, and then relegated to the unpopular nerdy kids to geek out over and that's it.
 
-fame is a scam. i hate that people aim so much for it, i hate that im guilty of wanting it to some level.
+Fame is a scam. It's annoying that people aim so much for it.
 
-i hate a lot of it
+### Power
 
-### power
+Advertisments rule this world. That is an annoying fact. It's gotten so out of hand that there's not even anything we can really do about it.
 
-advertisments rule this world. that is a fact. its gotten so out of hand that theres not even anything we can really do about it.
+Every computer is compromised and being data-mined at all times. I'm sure of this.
 
-every computer is comprimised and being data-mined at all times. i am sure of this.
+Every mobile phone is recording and taking pictures at all times, I'm sure of this.
 
-every mobile phone is recording and taking pictures at all times, i am sure of this
+That much information gives the people up the top all the power in this world, and there is nothing we can do about it.
 
-that much information gives the people up the top all the power in this world, and there is nothing we can do about it.
+Power corrupts. That is fact.
 
-power corrupts. that is fact.
+I would like to think that given the power of a deity, I would seclude myself to an extent, and live life without worry. slowly building up my own space and slowly depressing into permanent lugubriosity.
 
-i would like to think that given the power of a diety, i would stay an observer. i would seclude myself to an extent, and live life without worry. slowly building up my own space and slowly depressing into permanent lugubriosity.
+I don’t think this is true.
 
-i don’t think this is true.
+I would take that power and I would go on a bender of spreading anger.
 
-i would take that power and i would go on a bender of spreading anger.
+And then hopefully settle down.
 
-and then hopefully settle down.
+Power corrupts, at all levels.
 
-power corrupts, at all levels.
+There is nothing we can do about it
 
-there is nothing we can do about it
+And its what actually everyone is aiming for.
 
-and its what literally everyone is aiming for.
+### Fin
 
-### fin
+I'm in an edgy headspace. Apologies for such a shitty armchair psychology article. Back to your regular non-edgy shit at a later time.
 
-im in an edgy headspace. im sorry for such a shitty armchair psychology article. back to your regular non-edgy shit at a later time.
-
-peace out.
+Peace out.
