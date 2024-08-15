@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows keyboards are killing my wrists
+title: Windows keyboards can officially suck
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,17 +8,17 @@ tags: [rants]
 comments: true
 ---
 
-I'm all for technological progress and modern computing. But can we please talk about Windows keyboards, which are an ergonomic nightmare?
+I'm all for technological progress and modern computing, but can we please talk about fucking nightmare windows keyboards?
 
 ###  I just realized that these Windows Keyboards are killing my wrist
 
 {: .box-note}
 You’re typing away, *in the zone*, and suddenly you need to hit CTRL. 
 
-What do you do? You stretch your pinky finger all the way to the bottom-left corner of your fucking keyboard. It’s like a yoga move, but for your hand. 
+What do you do? You stretch your pinky finger aaallll theee waaayyy to the bottom-left corner of your fucking keyboard. It’s like a yoga move, but for your hand. 
 
 {: .box-error}
-Our pinkies were not designed for such acrobatics.
+Our pinkies were not designed for such annoying acrobatics.
 
 I mean, come on, why is ``CTRL` placed so far away? It's like the keyboard designers thought, 
 
