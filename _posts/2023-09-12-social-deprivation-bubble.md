@@ -1,6 +1,6 @@
 ---
 layout: post
-title: social deprivation bubble
+title: Social deprivation bubble
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,31 +8,29 @@ tags: []
 comments: true
 ---
 
-if youre a hoopy frood who always knows where their headphones are then in my book you're all set to go out into the big bad world and interact with some strangers **“interact” with some strangers!**
+If you're a hoopy frood who always knows where their headphones are, then you're ready to venture out into the big terrible world and interact with some strangers **"interact" with some strangers!**
 
-### noggin' telecommunicators
+### Noggin' telecommunicators
 
-everyone should own a pair of really nice and comfy headphones, the more wires the better because as we all know
+Everyone should own a pair of really nice and comfy headphones, the more wires the better because as we all know
 
-> wires in fashion are cyb as hell ~ <span style="color:yellow">gucci or someone probably</span>
+> Wires in fashion are cyb as hell ~ <span style="color:red">gucci or someone, Idk</span>
 
-there was a time in my life where i wore the cheapest ear buds i could find and listened to music i ripped off of youtube or found on limewire through a barrage of bill clintons telling me he did not have sexual relations with that woman, but he did get tonnes of free tech soykaf from some website.
+There was a time in my life where I wore the cheapest ear buds I could find and listened to music I ripped off of youtube or found on limewire through a barrage of Bill Clintons telling me he did not have sexual intercourse with that woman, but he did get tons of free tech soykaf from some website.
 
-nowadays we’ve got only the most freedom respecting flacs, a neato pocket amp, and some nice sennys to pad everything out.
+Nowadays we’ve got only the most freedom respecting flacs, a neato pocket amp, and some nice sennys to pad everything out.
 
 living the dream.
 
-### observers
+### People who don't care
 
-theres something very calming about being a pseudo observer in life, about being someone on the outside, away from the centre of attention, and being able to go about your day without having to involve anyone else unless you want to.
+There's something very calming about not caring too much in life (I'm not, but I know someone very close to me), about being someone on the outside, away from the centre of attention, and being able to go about their day without having to involve anyone else unless they want to.
 
-headphones are beautiful because you can turn those fuarkers up super loud and basically drown out not only everyone, but the sound of the cars and your footsteps and anything else you need to not think about.
+Headphones are beautiful because you can turn those fuckers up very loud and basically drown out not only everyone, but the sound of the cars and your footsteps and anything else you need to not think about.
 
-> but wait! theres more!
+You don't even have to have them extremely loud, if you just have them on that's enough to get people to leave you alone, PLUS, if you're a cool hacker type you can even listen to people's conversations when they think you can't hear and pull off hacks and feel like a god doing nothing with that info but enjoy the fantasy nonetheless.
 
-you dont even have to have them super loud, if you just have them on thats enough to get people to leave you alone, plus if youre a cool hacker type you can even listen to peoples conversations when they think you cant hear and pull off leet hacks and feel like a god do nothing with that info but enjoy the fantasy nonetheless.
-
-### musical magic
+### Music
 
 and to top it all off, music really is a modern day form of magick.
 
@@ -46,10 +44,10 @@ you can change your world for the better, or worse, or whatever you decide, as l
 
 ### blah blah
 
-the point here is that headphone bubbles are super comfy, and everyone should enjoy them as much as they can because:
+the point here is that headphone bubbles are comfortable, and everyone should enjoy them as much as they can because:
 
-- social interaction is i dont fancy 
-- music is cool
-- it makes everything else in your day feel nicer
+- I may look like a social animal but socializing every each day is i dont fancy 
+- My playlist is cool
+- It makes everything else in your day feel nicer
 
 `:wq`
