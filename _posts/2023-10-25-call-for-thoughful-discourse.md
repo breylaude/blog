@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Thoughtful Discourse
+title: Call for thoughtful discourse
 subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
