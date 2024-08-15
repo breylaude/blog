@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBInfer Reduced LaudeTech's Product Crash by 50%
+title: Reducing LaudeTech's product crash by 50%
 subtitle: 
 cover-img: /assets/img/laude-technologies.jpg
 gh-repo: breylaude/breylaude.github.io
@@ -10,7 +10,7 @@ comments: true
 ---
 
 {: .box-note}
-Just want to share how powerful this tool is. Infer[1], or FBInfer (since it's written by Facebook), is a static analyzer that can detect cross-function logic errors and potential data race in C, C++ and Objective-C. Which is just amazing.
+Just want to share how powerful this tool is. Infer[1], or FBInfer (since it's written by Facebook), is a static analyzer that can detect cross-function logic errors and potential data race in C, C++ and Objective-C.
 
 [[1] Infer Static Analyzer](https://fbinfer.com/)
 
