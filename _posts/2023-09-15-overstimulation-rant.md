@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overstimulation Rant
+title: Autistic rant
 subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -8,8 +8,7 @@ tags: [thoughts]
 comments: true
 ---
 
-{: .box-note}
-Quite a bit, things get just a little too much, and it seems like theres nothing you can do and it all just weighs in. I think, personally, this is in part due three things, of which we shall explore make valid and informed points about rant vaguely until I run out of things to say
+Quite a bit, things get just a little too much, and it seems like there's nothing you can do and it all just weighs in. I think, personally, this is in part due three things, of which we shall explore, make valid and informed points about, rant vaguely until I run out of things to say.
 
 ### Advertising
 
@@ -27,7 +26,7 @@ And It's not just stores, the average web page is more advertising than actual c
 
 Even small things
 
-Software that we use daily is so packed full of useless features that essentially only exist to say
+Software that we use daily is so packed full of useless features that essentially only exist to say:
 
 {: .box-warning}
 "Hey we added a thing please check it out so we can maybe make some more money off you"
@@ -105,4 +104,4 @@ Please think about the media you consume, the software you use, the things you o
 
 Whoever runs the world, the 1% of the 1%, the nerds, the tech giants, the elite;
 
-They dont care nearly as much as they'd like you to think they do.
+They don't care nearly as much as they'd like you to think they do.
