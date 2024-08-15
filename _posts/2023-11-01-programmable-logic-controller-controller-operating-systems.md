@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmable logic controller's operating systems
+title: PLC's operating systems
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
