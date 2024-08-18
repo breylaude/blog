@@ -14,16 +14,25 @@ I was watching I I googled "how to learn to program" also again like you think I
 
 So I'm not going to teach you vim, if you think you want to learn, I'm just typing here...well, just a lot of times when I talk I'm not trying to be made sense of, honestly, I'm thinking out loud and I'm not trying to explain things such that an audience will understand, so we could say yeah look, I can tell you "here here's lifehacker.com the best ways to teach yourself to code" and really it comes down to just doing it like almost everything, but I think a question a lot of my friends have is what exactly do I do, so I'll bring them up here and I'll talk about what a program is.
 
-Ok so you have a program, what's the definition of a program? Well um you can think about it like this:
+### Program
+Ok so you have a program, what's the definition of a program? Well, you can think about it like this:
 
 {: .box-note}
-Program: Input --> Computation --> Output
+Input --> Computation --> Output
 
-A program takes in some **INPUT**, does some computation, and produces some **OUTPUT**, so there's an argument to be made that we should be teaching kids how to program; using functional languages, because functional languages more closely match this paradigm... but computers don't operate like functions, computers operate a lot more like turing machines, which we can get into too so maybe on one side of an extreme, we have like a high-level functional programming language like haskell, and then let's not really go lower than C, C and Assembly are the same structurally, so you can treat C and Assembly like the same thing, C is kind of assembly with a bit of syntactic sugar around it. There's nothing in C that doesn't very clearly map to something in Assembly.
+A program takes in some **Input**, does some computation, and produces some **Output**, so there's an argument to be made that we should be teaching kids how to program; using functional languages, because functional languages more closely match this paradigm... but computers don't operate like functions, computers operate a lot more like turing machines, which we can get into too so maybe on one side of an extreme, we have like a high-level functional programming language like haskell, and then let's not really go lower than C, C and Assembly are the same structurally, so you can treat C and Assembly like the same thing, C is kind of assembly with a bit of syntactic sugar around it. There's nothing in C that doesn't very clearly map to something in Assembly.
 
 Say like *languages* span the gamut from C over to Haskell right? Then you can take languages and languages go in a few directions, you can think of this as like C is like the functional spectrum and then maybe there's C --> Python and this is kind of the *ease* of use spectrum, so in the 90's it was believed that object-oriented programming was going to be this revolution in programming, that's basically C --> C++, and you can take it even further, Microsoft created these things called "com objects" and everything was going to be an object to pass around, small talk has this kind of paradigm also, but it turned out this didn't actually improve programmer productivity, the thing that improved programmer productivity was GC (garbage collection). 
 
-So when you think of a computer, first I mean we kind of have to ask the question "What is a computer?" so you can think about it like: you have a Processor that runs a stream of instructions, and then you have RAM, now you can break RAM into two things; there's two things stored in RAM, there's instructions and there's data (intructions + data). So most computers really don't treat these things very differently, when I make a program like `Hello world`:
+### Computer
+
+So when you think of a computer, first I mean you kind of have to ask the question "What is a computer?" so you can think about it like: 
+
+{: .box-note}
+Processor --> (runs stream of instructions)
+RAM --> (instructions + data)
+
+So most computers really don't treat these things very differently, when I make a program like `Hello world`:
 
 ```c
 int main () {
@@ -31,9 +40,45 @@ int main () {
 }
 ```
 
-And I compile this, and take a look on `objdump -d a.out` and that's not even all of it yeah `objdump -D a.out` so there's actually the `ascii` for `Hello world`, so it's in the same memory space as the instructions itself which does the printing of `Hello world`, there's the main function it's called a `dyld_stub_binder` is actually what calls the `printf` um so yeah try to copy my hello world program above and compile so you can actually see.
+And I compile this, and take a look on  `objdump -D a.out`  there's the funtion `_start` that calls the `main()`, well it doesn't call the `main()` directly.. But it takes `main()` as an argument and it's called a `libc_start_main` from (GLIBC).
 
-What is a computer? Processor and RAM, and then you can break down your program, so when you have a program, a program has text, it's called `.text` which is the instructions, a program has a `stack`, has a `heap` and has `bss`. Right. So `bss` are things like static data, there's a stack and then there's a heap, heaps you get to through `malloc`, stacks you get to through anything like local vars also control flows on the stack.
+```
+Disassembly of section .text:
+
+0000000000001050 <_start>:
+    1050:       31 ed                   xor    %ebp,%ebp
+    1052:       49 89 d1                mov    %rdx,%r9
+    1055:       5e                      pop    %rsi
+    1056:       48 89 e2                mov    %rsp,%rdx
+    1059:       48 83 e4 f0             and    $0xfffffffffffffff0,%rsp
+    105d:       50                      push   %rax
+    105e:       54                      push   %rsp
+    105f:       45 31 c0                xor    %r8d,%r8d
+    1062:       31 c9                   xor    %ecx,%ecx
+    1064:       48 8d 3d ce 00 00 00    lea    0xce(%rip),%rdi        # 1139 <main>
+    106b:       ff 15 4f 2f 00 00       call   *0x2f4f(%rip)        # 3fc0 <__libc_start_main@GLIBC_2.34>
+    1071:       f4                      hlt
+    1072:       66 2e 0f 1f 84 00 00    cs nopw 0x0(%rax,%rax,1)
+    1079:       00 00 00 
+    107c:       0f 1f 40 00             nopl   0x0(%rax)
+
+```
+
+Also look at `objdump -d simple.out | grep -A12 '<main>:'`, I grepped the `main()` because this is the only function I'm concerned about right now, so there's actually the `Hello world`, so it's in the same memory space as the instructions itself which does the printing of `Hello world`,
+
+![](/assets/img/main.png)
+
+You can look into some syntax and they’ll make sense in some time. Like `callq 1030 <puts@plt>` is the `printf` function, and of course before calling a function, you need to pass it's arguments on the stack. That means the `mov` just above the `callq` statement is the `Hello world` string (which is the argument passed to `printf()`). 
+
+
+Ok, Processor and RAM, and then you can break down your program, so when you have a program, a program has text, it's called `.text` which is the instructions, a program has a `stack`, has a `heap` and has `bss`. It looks just like this:
+
+{: .box-note}
+bss --> static data
+heaps --> malloc
+stacks --> local vars, control flows 
+
+`bss` are things like static data, there's a stack and then there's a heap, heaps you get to through `malloc`, stacks you get to through anything like local vars also control flows on the stack.
 
 
 ```c
@@ -42,7 +87,7 @@ void a() {
 }
 ```
 
-If I have a main function and I call `a()`
+Ok, If I have a main function and I call `a()`
 
 ```c
 int main() {
