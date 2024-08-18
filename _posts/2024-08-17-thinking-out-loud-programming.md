@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking out loud, programming
+title: Computer vs. trash work
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
