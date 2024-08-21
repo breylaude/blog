@@ -8,7 +8,7 @@ tags: [programming]
 comments: true
 ---
 
-I was watching some guy's finance lectures and he gave lectures with a list of financial advice and he starts out by saying "What is finance", he breaks it down into two things, if you want to get into it you have a choice, you can either invest your own money or other people's money - investing your own money probably only makes sense if you have a lot of it, you need tools to, like there's no reason you should be investing your money if somebody else can invest it better. Basically good advice so I thought I'd do something similar for programming...
+I was watching some random guy's finance lectures and he gave lectures with a list of financial advice and he starts out by saying "What is finance", he breaks it down into two things, if you want to get into it you have a choice, you can either invest your own money or other people's money - investing your own money probably only makes sense if you have a lot of it, you need tools to, like there's no reason you should be investing your money if somebody else can invest it better. Basically good advice so I thought I'd do something similar for programming...
 
 I googled "How to learn to program", also again, like you think I'm on drugs constantly I'm really not, I smoke weed occasionally, I drink occasionally, I don't really do harder drugs than that, I don't think I've taken adderall or any other stimulants this year, I don't know why I'm always asked on the chat, you all think that maybe there's something defective about my brain chemistry. 
 
