@@ -1,10 +1,10 @@
 ---
 layout: post
-title: thoughts on "you should be working on hardware" by casey handmer
-subtitle: 
-gh-repo: breylaude/blog
+title: Most people just can’t be the visionaries
+subtitle: Thoughts on "You should be working on hardware" by Casey Handmer
+gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
-tags: [thoughts]
+tags: [Raw Thoughts]
 comments: true
 ---
 
