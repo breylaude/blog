@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Regarding privacy and tech development
+title: Regarding privacy and Tech Development
 subtitle: 
-gh-repo: breylaude/blog
+gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: [privacy]
 comments: true
