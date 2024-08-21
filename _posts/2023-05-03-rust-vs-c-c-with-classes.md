@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop those Rust, C, and C-with-Classes comparison bullshit!
+title: Rust vs C and C-with-Classes
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
