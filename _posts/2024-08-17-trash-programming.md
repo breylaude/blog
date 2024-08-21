@@ -12,7 +12,7 @@ I was watching some random guy's finance lectures and he gave lectures with a li
 
 I googled "How to learn to program", also again, like you think I'm on drugs constantly I'm really not, I smoke weed occasionally, I drink occasionally, I don't really do harder drugs than that, I don't think I've taken adderall or any other stimulants this year, I don't know why I'm always asked on the chat, you all think that maybe there's something defective about my brain chemistry. 
 
-Also I'm not going to teach you VIM, if you think you want to learn, I'm just typing here...well, just a lot of times when I do this I'm not trying to be made sense of, honestly, I'm thinking and I'm not trying to explain things such that an audience/viewer will understand, so I could say yeah look, I can tell you *"Here's lifehacker.com - the best ways to teach yourself to code"* and really it comes down to just doing it like almost everything.
+Also I'm not going to teach you VIM, if you think you want to learn, I'm just typing here...well, just a lot of times when I do this I'm not trying to be made sense of, honestly, I'm thinking and I'm not trying to explain things such that an audience/viewer will understand, and really it comes down to just doing it like almost everything.
 
 ### Program
 What's the definition of a program? You can think about it like this:
@@ -102,16 +102,15 @@ void b(){
 }
 ```
 
-The `variable_on_the_stack` is returned by popping off stack. So this is a basic idea of what a computer is. 
+The `variable_on_the_stack` is returned by popping off stack. So this is a core idea of what a computer is. 
 
-Now there's a whole other direction you can go with the idea of what is programming, there is a practical idea like I want to get a job, so what does this mean? what does a software engineer do? Well **they don't really write algorithms**, you will never in any job have to write a sort algorithm, a binary search algorithm, anything like that as a software engineer.
+### Trash Programming
+Now there's a whole other direction you can go with the idea of what is programming, there is a practical idea like I want to get a job, so what does this mean? What does a software engineer do? Well, what they do is **they don't really write algorithms**, you will never in any job have to write a sort algorithm, a binary search algorithm, anything like that as a software engineer.
 
 {: .box-note}
 What they do ---> they don't write algorithms
 
-### Trash Programming
-
-What else? Well there are some people who actually work on infrastructure but that's not a lot of people, most software engineers are basically *translators*, and they translate a language, the language is called "business requirements" into code and there's a whole lot of *frameworks* which exist to make writing things that meet business requirements easier. If you think of a business requirement like a web page that's going to allow users to leave a phone number or where we can call them back, there's a lot of frameworks that are designed to do things like that, if you wanted to write something on that you could use something like *Ruby on Rails* for like web apps, there's also this paradigm of CRUD apps and you get what CRUD stands for, the 4 basic types of SQL command; Create, Read, Update, Delete. 
+What else? Well there are some people who actually work on infrastructure but that's not a lot of people, most software engineers are basically *translators*, and they translate a language, the language is called "business requirements" into code and there's a whole lot of *frameworks* which exist to make writing things that meet business requirements easier. If you think of a business requirement like a web page that's going to allow users to leave a phone number or where you can call them back, there's a lot of frameworks that are designed to do things like that, if you wanted to write something on that you could use something like *Ruby on Rails* for web apps, there's also this paradigm of CRUD apps and you get what CRUD stands for, the 4 basic types of SQL command; Create, Read, Update, Delete. 
 
 Say we want to build Ruby on Rails or similar for web apps and you're basically creating an app that looks like create, read update, delete. There's some front-end, the view, there's some database which is the *model* and then there is the business logic which is a *controller*, so, say the front-end is a portal where your customers can add their phone number such that you'll be able to call them, they have to be able to update their phone number due to GDPR, they have to be able to delete their profile, you can see how it translates to this.
 
