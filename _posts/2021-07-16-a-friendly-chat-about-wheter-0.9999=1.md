@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a friendly chat about whether 0.999...= 1
+title: A friendly chat about whether 0.999...= 1
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
@@ -14,7 +14,7 @@ For those who follow the internet, the question of whether `0.999…= 1` has com
 
 ### Non Mathematicians vs frustrated mathematicians
 
-and neither of them winning. Some mathie forums even have strict rules banning users against posting topics that deal with `0.999…= 1`.
+Neither of them are winning. Some math forums even have strict rules banning users against posting topics that deal with `0.999…= 1`.
 
 But the site I mentioned above actually gives some decent points to support why `0.999… = 1` isn’t necessarily true, but you have to change some of the concepts that we take for granted.
 
