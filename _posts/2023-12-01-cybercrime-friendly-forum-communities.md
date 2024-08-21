@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybercrime-Friendly Forum Communities
+title: Compilation of Cybercrime-Friendly Forum Communities
 subtitle: 
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
@@ -40,4 +40,4 @@ hxxp://legendzforum.com/
 hxxp://procrax.cx/
 
 {: .box-warning}
-Approach me at laude [@] internet [.] ru in order to obtain full 19GB copy!
+Email me at laude [@] internet [.] ru in order to obtain full 19GB copy!
