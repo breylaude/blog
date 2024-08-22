@@ -8,16 +8,9 @@ tags: [code, maintainability]
 comments: true
 ---
 
-I hate this book.
-I hate this book long before it was trendy to hate this book.
-I gave it a lot of thought for a very brief moment of time, and then it became clear to me that this advise is bad. 
-I mean it's just harmful. 
-
-Ok, with regards to the majority of the advices, this pertains to "Clean Code" in particular. 
+With regards to the majority of the advices, this pertains to "Clean Code" in particular. 
 
 A bunch of other things, lots of design patterns, they're highly specific to a certain language, and a lot of principles that they talk about that are important are things that are not important in other languages and are not relevant in other languages. 
-
-I'm not saying I'm the best in the field but I have certain thoughts that I believe are far more relevant because I've worked in a bunch of different languages and I've worked in a bunch of different frameworks and I have found the same techniques to be useful over and over. 
 
 Things like "Clean Code" do nothing but stir up arguments, opportunity for teams to argue with each other and for people to point to things and to tell each other that they're wrong and it just creates contention in a group and that's pointless especially when a lot of the advice actually leads you the wrong direction. 
 
