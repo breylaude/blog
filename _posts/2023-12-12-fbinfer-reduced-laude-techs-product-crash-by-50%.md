@@ -2,7 +2,7 @@
 layout: post
 title: Reducing LaudeTech's product crash by 50%
 subtitle: 
-cover-img: /assets/img/laude-technologies.jpg
+cover-img:
 gh-repo: breylaude/breylaude.github.io
 gh-badge: [star, fork, follow]
 tags: []
