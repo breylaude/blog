@@ -8,7 +8,7 @@ tags: [testing]
 comments: true
 ---
 
-You’ll probably notice that performance testing costs a lot of time to run one case. Mmoreover, it carries the risk of failing the execution itself. 
+You’ll probably notice that performance testing costs a lot of time to run one case. Moreover, it carries the risk of failing the execution itself. 
 
 Furthermore, fixes to eliminate bottlenecks found in performance testing are often far more expensive than functional fixes.
 
