@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autistic rant
+title: Rant
 subtitle:
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
