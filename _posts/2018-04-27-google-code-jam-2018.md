@@ -8,11 +8,11 @@ tags: [cp]
 comments: true
 ---
 
-Codejam is using a different system and rules than before. I am not sure if I want to participate in the contest. I know how to solve problem A, but I can’t even find a vital bit of info about the new rules like the CPU of the servers where the code are supposed to run.
+Codejam is using a different system and rules than before. I'm not sure if I still want to participate in the contest. I know how to solve problem A, but I can’t find a vital bit of info about the new rules like the CPU of the servers where the code are supposed to run.
 
-However, this sounds suspiciously like one of those badly made ACM contests.
+However, this suspiciously sound like one of those badly made ACM contests.
 
-I no longer have so much free time as before. I barely have time in the weekends to rest. So a Saturday is not something I can just spend in some contest if it doesn't sound at least a bit challenging. And the prizes are as low as ever. I decide that atleast for Friday I am not going to bother.
+I no longer have so much free time as before. I barely have time in the weekends to rest. So a Saturday is not something I can just spend in some contest if it doesn't sound at least a bit challenging. And the prizes are as low as ever. I decide that atleast for Friday I'm not gonna bother.
 
 Enough too much talking. **I accidentally read problem B and figure it's an extremely easy problem.**
 
