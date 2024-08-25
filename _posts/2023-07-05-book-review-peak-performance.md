@@ -1,12 +1,13 @@
 ---
 layout: post
-title: book review - peak performance v2
+title: Peak performance v2
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
 tags: [book review]
 comments: true
 ---
+
 
  a must-read for understanding system performance optimization. but it is recommended to read a book on kernel implementation first, such as [understanding linux kernel]().
 
