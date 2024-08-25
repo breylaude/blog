@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Actual Programming vs Trash Programming
+title: What programming is actually
 subtitle: 
 gh-repo: breylaude/blog
 gh-badge: [star, fork, follow]
