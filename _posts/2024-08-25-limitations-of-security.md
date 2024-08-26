@@ -8,7 +8,7 @@ tags: [security]
 comments: true
 ---
 
-Understanding the fundamental limitations that go along with our security principles -- the CIA triad.
+Understanding the fundamental limitations that go along with the CIA triad.
 
 For example, one of the most fundamental, if not the most fundamental trade-off, exists between security and functionality. And this trade off works as follows:
 
