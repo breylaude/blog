@@ -20,9 +20,9 @@ author: Brey Laude
 ###############################################
 
 navbar-links:
+  About: "about"
   Contact: "contact"
-  Resources:
-    - Company : "https://laudetechnologies.com"
+  Others:
     - Tag index: "https://breylaude.github.io/tags"
 #  Author's Home: "https://laudetechnologies.com"
 
@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mail@laude.cloud"
+  email: "mail@breylaude.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: brey.laude
 #  github: breylaude
