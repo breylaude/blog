@@ -1,3 +1,4 @@
+
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -10,7 +11,7 @@
 ############################
 
 # Name of website
-title: test
+title: Thinking Out Loud
 
 # Your name to show in the footer
 author: Brey Laude
@@ -20,9 +21,9 @@ author: Brey Laude
 ###############################################
 
 navbar-links:
-  About: "about"
   Contact: "contact"
-  Others:
+  Resources:
+    - Company : "https://laudetechnologies.com"
     - Tag index: "https://breylaude.github.io/tags"
 #  Author's Home: "https://laudetechnologies.com"
 
@@ -39,7 +40,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
- title-img: "assets/img/avatar/avatar-2.png"
+# title-img: "assets/img/orz2.jpeg.gif"
 
 
 #####################################
@@ -50,9 +51,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mail@breylaude.com"
+  email: "laude822@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: brey.laude
+#  facebook: deanattali
 #  github: breylaude
 #  twitter: breylaude
 #  patreon: DeanAttali
@@ -134,7 +135,7 @@ navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#1A1A1F"
-hover-col: "#1F51FF" # Neon Blue
+hover-col: "#4B3B65"
 footer-col: "#1A1A1F"
 footer-text-col: "#CCCCCC"
 footer-link-col: "#404040"
